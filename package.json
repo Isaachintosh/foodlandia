@@ -1,0 +1,31 @@
+{
+    "name": "foodfood",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "engines": {
+        "node": "16.x",
+        "npm": "7.x"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Hemersonmelo/foodFood.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Hemersonmelo/foodFood/issues"
+    },
+    "homepage": "https://github.com/Hemersonmelo/foodFood#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "postinstall": "^0.7.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
